@@ -1,0 +1,22 @@
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 11\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.csprojResolveAssemblyReference.cache
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 11\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi_Yarışması.Form1.resources
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 11\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.csproj.GenerateResource.Cache
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 11\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi_Yarışması.Form2.resources
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 11\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi_Yarışması.Form3.resources
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 11\Bilgi Yarışması\Bilgi Yarışması\bin\Debug\Lol Bilgi Yarışması.exe.config
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 11\Bilgi Yarışması\Bilgi Yarışması\bin\Debug\Lol Bilgi Yarışması.exe
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 11\Bilgi Yarışması\Bilgi Yarışması\bin\Debug\Lol Bilgi Yarışması.pdb
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 11\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Lol_Bilgi_Yarışması.Properties.Resources.resources
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 11\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Lol Bilgi Yarışması.exe
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 11\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Lol Bilgi Yarışması.pdb
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 11\Bilgi Yarışması\Bilgi Yarışması\bin\Debug\Lol Bilgi Yarışması.exe.config
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 11\Bilgi Yarışması\Bilgi Yarışması\bin\Debug\Lol Bilgi Yarışması.exe
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 11\Bilgi Yarışması\Bilgi Yarışması\bin\Debug\Lol Bilgi Yarışması.pdb
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 11\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi_Yarışması.Form1.resources
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 11\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi_Yarışması.Form2.resources
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 11\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi_Yarışması.Form3.resources
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 11\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Lol_Bilgi_Yarışması.Properties.Resources.resources
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 11\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.csproj.GenerateResource.cache
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 11\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.csproj.CoreCompileInputs.cache
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 11\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Lol Bilgi Yarışması.exe
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 11\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Lol Bilgi Yarışması.pdb
